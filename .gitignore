@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EventManagemenet/.vs
+/.vs
+/EventManagemenet/bin/Debug/net6.0
+/EventManagemenet/obj
+/EventManagemenetApp.DataAccess/bin/Debug/net6.0
+/EventManagemenetApp.DataAccess/obj
+/EventManagemenetApp.EntityFramework/bin/Debug/net6.0
+/EventManagemenetApp.EntityFramework/obj
